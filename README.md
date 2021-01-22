@@ -1,4 +1,4 @@
-![Profile Banner](/ZomixHQ/Welcome-Profile/blob/main/Banner-Profile.gif?raw=true)
+![Profile Banner](https://github.com/ZomixHQ/Welcome-Profile/blob/main/Banner-Profile.gif?raw=true)
 <!-- ## 👋 &nbsp;Olá! Bem-Vindo(a) -->
 
 ### 👨🏻‍💻 &nbsp;Sobre Mim
